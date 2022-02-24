@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1bc1c483-3228-48e3-a430-fabe9666916c": {
+      "ProjectGuid": "1bc1c483-3228-48e3-a430-fabe9666916c",
+      "DisplayName": "NunitTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
